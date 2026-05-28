@@ -1,0 +1,32 @@
+aid: tax-data-api
+name: Tax Data API
+description: "Instant VAT number and tax validation across the globe"
+url: https://apilayer.com/marketplace/tax_data-api
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Finance"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Finance
+  - Public APIs
+apis:
+  - name: Tax Data API
+    description: "Instant VAT number and tax validation across the globe"
+    humanURL: https://apilayer.com/marketplace/tax_data-api
+    baseURL: https://apilayer.com/marketplace/tax_data-api
+    tags:
+      - Finance
+    properties:
+      - type: Documentation
+        url: https://apilayer.com/marketplace/tax_data-api
+common:
+  - type: Website
+    url: https://apilayer.com/marketplace/tax_data-api
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
